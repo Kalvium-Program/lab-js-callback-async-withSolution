@@ -20,6 +20,6 @@ function createCookie(newCookie) {
   }, 2000);
 }
 
-// calling functions
+// Progression 4: calling functions
 createCookie(newCookie);
 getCookies();

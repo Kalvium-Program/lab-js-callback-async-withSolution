@@ -45,8 +45,8 @@ check whether the third cookie, you added is being printed or not.
 
 ### Progression 5:
 
-copy the entire code from **withoutCallback.js**, and add a callback function just after you push the new cookie to your cookies list.
-just call the function which creates the cookie for you.
+copy the entire code from **withoutCallback.js**, and add a callback function as an argument to your create cookie function and call the callback function just after you push the new cookie to your cookies list.
+just call the function which creates the cookie for you and pass the function. which gets all the cookies.
 check whether - now the third cookie is being printed on your browser or not.
 
 Happy Coding Kalvium❤️
